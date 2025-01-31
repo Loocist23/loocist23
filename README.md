@@ -18,5 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loocist23&show_icons=true&theme=dark&locale=en&layout=compact" alt="loocist23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loocist23&show_icons=true&theme=dark&locale=fr" alt="loocist23" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yelodress&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile"></img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marticliment&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marticliment&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
+
 
